@@ -6,4 +6,6 @@
 5. >git push heroku master
 
 # Update Heroku App
-node
+1. git push to github
+2. git push to heroku
+
